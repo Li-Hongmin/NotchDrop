@@ -36,5 +36,7 @@
 	<string>NotchDrop manages menu bar display modes.</string>
 	<key>NSScreenCaptureDescription</key>
 	<string>NotchDrop needs screen access for display optimization.</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
 </dict>
 </plist>
